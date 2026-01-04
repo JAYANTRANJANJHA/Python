@@ -1,0 +1,3 @@
+STR1="PYTHON";
+STR2=STR1[2:]+STR1[:2]
+print(STR1 in 2*STR2);
