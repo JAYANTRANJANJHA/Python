@@ -52,4 +52,12 @@ print(age>18 and is_student)
 print(age>25 or is_student)
 print(not is_student)
 
+#Assignment Operator
 
+print(a)
+
+a+=5
+print(a)
+
+a-=5
+print(a)
