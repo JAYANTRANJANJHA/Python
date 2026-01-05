@@ -72,3 +72,7 @@ l3=[1,2,3]
 print(l1 is l2)
 print(l1 is l3)
 
+#Membership Operator
+
+veggie=["Beetroot","Broccli","Zuchinni"]
+print('Broccli' in veggie)
