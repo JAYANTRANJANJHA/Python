@@ -31,3 +31,13 @@ print("Modulus",mod)
 
 expo=a**b
 print("exponent",expo)
+
+#Comparison Operators
+
+print("equal to",a==b)
+print("not equal to",a!=b)
+print("greater than",a>b)
+print("less than",a<b)
+print("greater than equal to",a>=b)
+print("less than equal to",a<=b)
+
