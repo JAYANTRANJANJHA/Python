@@ -4,6 +4,12 @@ Docstring for Introduction.operators
 PEMDAS
 parenthesis()->exponent**->mlt* div/->add+ sub-
 
+arith-math calc
+comparison-compare value
+logical-combine
+assignment-assign value
+identity-object memory location
+membership-value exist in sequences
 
 """
 #Arithmetic Operator
