@@ -61,3 +61,14 @@ print(a)
 
 a-=5
 print(a)
+
+#Identity Operator-compare memory location
+#is-True if same
+#is not - True if not same
+
+l1=[1,2,3]
+l2=l1
+l3=[1,2,3]
+print(l1 is l2)
+print(l1 is l3)
+
